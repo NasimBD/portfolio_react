@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio_react/static/css/main.da13168a.css",
+    "main.js": "/portfolio_react/static/js/main.a91620e8.js",
+    "static/media/half past.pdf": "/portfolio_react/static/media/half past.6d54933658e2e2a85416.pdf",
+    "static/media/course5.jpg": "/portfolio_react/static/media/course5.17a9ff0d2ceaa772496a.jpg",
+    "static/media/me-1.png": "/portfolio_react/static/media/me-1.f827264e224636d7a95c.png",
+    "static/media/course9.jpg": "/portfolio_react/static/media/course9.22ce3b57260b2b4a2675.jpg",
+    "static/media/course6.jpg": "/portfolio_react/static/media/course6.41e43850298cc65c8777.jpg",
+    "static/media/me-3.jpg": "/portfolio_react/static/media/me-3.a0d29fab86ff44f20d71.jpg",
+    "static/media/course2.jpg": "/portfolio_react/static/media/course2.283eb4112e247ca3a298.jpg",
+    "static/media/course4.jpg": "/portfolio_react/static/media/course4.16e03d161bfa161fd4f5.jpg",
+    "index.html": "/portfolio_react/index.html",
+    "main.da13168a.css.map": "/portfolio_react/static/css/main.da13168a.css.map",
+    "main.a91620e8.js.map": "/portfolio_react/static/js/main.a91620e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da13168a.css",
+    "static/js/main.a91620e8.js"
+  ]
+}
